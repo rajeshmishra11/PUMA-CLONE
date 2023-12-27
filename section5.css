@@ -1,0 +1,27 @@
+.section5{
+    position: absolute;
+    margin-top: 1910px;
+}
+.section5 img{
+    /* position: absolute; */
+    width:100%;
+    height:auto;
+}
+.section5 h1{
+    position: absolute;
+    margin-top: -300px;
+    color:white;
+    margin-left: 900px;
+    font-weight: 700;
+    height:100px;
+}
+.section5 h3{
+    position: absolute;
+    margin-top: -250px;
+    font-size: 22px;
+    color:white;
+    margin-left: 825px;
+    font-weight: 400;
+    height:100px;  
+}
+

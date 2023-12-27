@@ -1,0 +1,31 @@
+.section7 img{
+    position: absolute;
+    width:100%;
+    margin-top: 2950px;
+}
+.section7 h1{
+    position: absolute;
+    width:100%;
+    margin-top: 3130px;
+    margin-left: 540px;
+    font-weight: 700;
+    color:black;
+}
+.section7 p{
+    position: absolute;
+    width:100%;
+    margin-top: 3170px;
+    margin-left: 480px;
+    font-weight: 400;
+    color:black;
+    font-size: 28px; 
+}
+.section7 button{
+    position: absolute;
+   padding: 8px 17px;
+    margin-top: 3230px;
+    margin-left: 630px;
+    background-color: black;
+    color:white;
+    border: none; 
+}

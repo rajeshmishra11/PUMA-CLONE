@@ -1,0 +1,33 @@
+.section8 img
+{
+  width:100%;
+  position: absolute;
+  margin-top: 3440px;
+}
+.section8 h1{
+    position: absolute;
+    margin-top: 3600px;
+    margin-left:55px;
+    font-size: 40px;
+    color:black;
+    height:50px;
+    font-weight: 700;
+}
+.section8 p{
+    position: absolute;
+    margin-top: 3650px;
+    margin-left:45px;
+    font-size: 25px;
+    color:black;
+    height:50px;
+    font-weight: 500;
+}
+.section8 button{
+    position: absolute;
+   padding: 8px 17px;
+    margin-top: 3700px;
+    margin-left: 150px;
+    background-color: black;
+    color:white;
+    border: none; 
+}

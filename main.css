@@ -1,0 +1,94 @@
+@import url("Section1.css");
+@import url(./section2.css);
+@import url(./section3.css);
+@import url(./section4.css);
+@import url(./section5.css);
+@import url(./section6.css);
+@import url(./section7.css);
+@import url(./section8.css);
+@import url(./section9.css);
+@import url(./section10.css);
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+nav{
+    /* border:2px solid; */
+    background-color: black;
+    color:white;
+    /* position: absolute; */
+    width:100%;
+    height:85px;
+    /* position: fixed; */
+}
+.left img{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.navbar{
+    position: absolute;
+    /* border:2px solid yellow; */
+    display: flex;
+    width:56%;
+    margin-top: 20px;
+    margin-left: 120px;
+    font-size: 15px;
+    font-weight: 700;
+    position: fixed;
+}
+.navbar li{
+    cursor: pointer;
+}
+.navbar li:hover{
+    text-decoration: underline;
+   
+}
+.right{
+    z-index: 1111111111;
+    /* border:2px solid green; */
+    width:25%;
+    display: flex;
+    margin-left: 1150px;
+    position: absolute;
+    margin-top: -57px;
+}
+.right button{
+    padding: 6px 20px;
+    background-color: black;
+    color: white;
+    border:1px solid grey;
+}
+.right button:hover{
+    border:1px solid white;
+    cursor: pointer;
+}
+.icon {
+    /* border: 2px solid; */
+    width: 56%;
+    font-size: 20px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.icon i{
+    cursor: pointer;
+    height: 35px;
+   width:35px;
+   text-align: center;
+}
+.icon i:hover{
+    height: 35px;
+   width:35px;
+   text-align: center;
+   border-radius: 50%;
+   background-color: grey;
+}

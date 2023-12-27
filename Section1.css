@@ -1,0 +1,48 @@
+
+.section1 img{
+    width: 100%;
+    height:600px;
+    background-size: cover;
+    background-position: center;
+}
+.section1 h1{
+    position: absolute;
+    margin-top: -350px;
+    font-size: 40px;
+    height: 50px;
+    margin-left: 75px;
+    font-weight: 700;
+}
+#demo1{
+    position: absolute;
+    margin-top: -300px;
+    font-size: 25px;
+    margin-left: 95px;
+    font-weight: 400;
+}
+#demo{
+    position: absolute;
+    margin-top: -260px;
+    font-size: 15px;
+    margin-left: 85px; 
+    font-weight: 400;
+}
+#button{
+    position: absolute;
+     /* border:2px solid yellow; */
+   width:31%;
+    height:45px; 
+    display: flex;
+    /* padding-left: 30px; */
+    margin-top: -210px;
+    margin-left: 23px;
+    justify-content: space-evenly;
+   
+}
+#button button{
+   padding: 5px 25px;
+   background-color: black;
+   color: white;
+   font-size: auto;
+   font-weight: 600;
+}

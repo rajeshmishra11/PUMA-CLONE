@@ -1,0 +1,32 @@
+.section2 img{
+   position: absolute;
+    width:100%;
+    height:auto;
+}
+.section2 p{
+    position: absolute;
+    margin-top: 170px;
+    margin-left:50px;
+    font-size: 40px;
+    color:white;
+    font-weight: 700;
+    
+}
+.section2 h3{
+    position: absolute;
+    margin-top: 290px;
+    margin-left:50px;
+   font-size: 25px;
+    color:white;
+    height:100px;
+    font-weight: 400; 
+}
+.section2 button{
+    position: absolute;
+    margin-top: 340px;
+    margin-left:80px;
+    padding: 8px 15px;
+    font-weight: 600;
+    border: none;
+    background-color: white;
+}
